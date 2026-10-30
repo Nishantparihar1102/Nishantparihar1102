@@ -112,7 +112,7 @@ print(me.motto())
 
 [![LinkedIn](https://img.shields.io/badge/Nishant_Parihar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-parihar-29b32a370/)
 
-[![Gmail](https://img.shields.io/badge/nishantparhar006%40gmail.com-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantparhar006@gmail.com)
+[![Gmail](https://img.shields.io/badge/nishantparhar@007%40gmail.com-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantparhar007@gmail.com)
 
 </div>
 
