@@ -13,7 +13,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-parihar-29b32a370/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantparhar006@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/Nishantparihar1102)
 
 </div>
 
